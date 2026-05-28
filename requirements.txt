@@ -1,0 +1,11 @@
+
+streamlit
+langgraph
+langchain
+langchain-google-genai
+google-generativeai
+tavily-python
+jinja2
+python-dotenv
+rich
+typing_extensions
